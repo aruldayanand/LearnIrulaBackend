@@ -1,0 +1,1252 @@
+[
+  {
+    "lexicalUnit": "kuru.ku",
+    "grammaticalInfo": "Adverb",
+    "enWord": "Across",
+    "irulaWord": "குறுக்கு",
+    "taWord": "எதிர் பக்கம்",
+    "enMeaning": "To the opposite side",
+    "taMeaning": "எதிர் பக்கம்",
+    "category": "Direction"
+  },
+  {
+    "lexicalUnit": "aːɖu.ɡaˌ ɡa.ˈɾu",
+    "grammaticalInfo": "Verb",
+    "enWord": "Act",
+    "irulaWord": "அடுக்ககரு",
+    "taWord": "நடிக்க",
+    "enMeaning": "To behave in a certain manner",
+    "taMeaning": "ஒரு குறிப்பிட்ட முறையில் நடந்து கொள்ள வேண்டும்",
+    "category": "Physical Action"
+  },
+  {
+    "lexicalUnit": "ˈkaː.l ˈsejɪ.nu",
+    "grammaticalInfo": "Noun",
+    "enWord": "Anklet",
+    "irulaWord": "கால்செனு",
+    "taWord": "கணுக்கால்",
+    "enMeaning": "An ornament worn around the ankle",
+    "taMeaning": "கணுக்காலைச் சுற்றி அணியும் ஆபரணம்.",
+    "category": "Ornaments"
+  },
+  {
+    "lexicalUnit": "ʋa.ɻa ˈkə.ɖɛ θo.lu",
+    "grammaticalInfo": "Noun",
+    "enWord": "Arm",
+    "irulaWord": "வரோகேட்தோள்",
+    "taWord": "கை",
+    "enMeaning": "An arm is a limb on the upper part of a person's body.",
+    "taMeaning": "கை என்பது ஒரு நபரின் உடலின் மேல் பகுதியில் உள்ள ஒரு மூட்டு.",
+    "category": "body parts"
+  },
+  {
+    "lexicalUnit": "buː.ɖiː",
+    "grammaticalInfo": "Noun",
+    "enWord": "Ash",
+    "irulaWord": "பூதி",
+    "taWord": "சாம்பல்",
+    "enMeaning": "The powdery residue left after the burning of a substance.",
+    "taMeaning": "(மரம், கரி முதலியவை) எரிந்து கிடைக்கும் தூள்.",
+    "category": "Earth"
+  },
+  {
+    "lexicalUnit": "pɐ.ʧə pul.le",
+    "grammaticalInfo": "Noun",
+    "enWord": "Baby",
+    "irulaWord": "பச்சப்புள்ளை",
+    "taWord": "குழந்தை",
+    "enMeaning": "A very young child (birth to 1 year) who has not yet begun to walk or talk",
+    "taMeaning": "இன்னும் நடக்கவோ பேசவோ தொடங்காத மிக இளம் குழந்தை",
+    "category": "Mankind"
+  },
+  {
+    "lexicalUnit": "va.ɭa͡j kaː.θu",
+    "grammaticalInfo": "Verb",
+    "enWord": "Bend",
+    "irulaWord": "வலைக்காடு",
+    "taWord": "எதையாவது வளைக்க",
+    "enMeaning": "To form a curve or cause an object to assume a crooked or angular form",
+    "taMeaning": "ஒரு வளைவை உருவாக்க அல்லது ஒரு பொருளை ஒரு வளைந்த அல்லது கோண வடிவத்தை எடுக்க",
+    "category": "Physical Action"
+  },
+  {
+    "lexicalUnit": "ˈsej.θu ɡaː.ðu",
+    "grammaticalInfo": "Verb",
+    "enWord": "Bind",
+    "irulaWord": "செதுக்கடு",
+    "taWord": "பிணைக்க",
+    "enMeaning": "To fasten or secure with a rope, string, or cord",
+    "taMeaning": "ஒரு கயிறு, சரம் அல்லது வடம் மூலம் கட்ட அல்லது பாதுகாக்க",
+    "category": "Physical Action"
+  },
+  {
+    "lexicalUnit": "uː.ðu ˞ɡa",
+    "grammaticalInfo": "Verb",
+    "enWord": "Blow",
+    "irulaWord": "உடுக்க",
+    "taWord": "ஊதுவதற்காக",
+    "enMeaning": "Exhale hard",
+    "taMeaning": "மூச்சை வெளியே விடவும்",
+    "category": "Physical Action"
+  },
+  {
+    "lexicalUnit": "n̪iː.la",
+    "grammaticalInfo": "Noun",
+    "enWord": "Blue",
+    "irulaWord": "நிலா",
+    "taWord": "நீலம்",
+    "enMeaning": "Resembling the color of the clear sky in the daytime",
+    "taMeaning": "நீல நிறம் அல்லது நிறமி",
+    "category": "Colour"
+  },
+  {
+    "lexicalUnit": "ˈboɖ.ɖeː",
+    "grammaticalInfo": "Noun",
+    "enWord": "Bone",
+    "irulaWord": "போடதே",
+    "taWord": "எலும்பு",
+    "enMeaning": "A bone is a single section of a skeleton, made of very hard tissue.",
+    "taMeaning": "ஒரு எலும்பு என்பது ஒரு எலும்புக்கூட்டின் ஒரு பகுதி, மிகவும் கடினமான திசுக்களால் ஆனது.",
+    "category": "Body Parts"
+  },
+  {
+    "lexicalUnit": "vaˈn̪əŋ.ɡu ˌɡa.θu",
+    "grammaticalInfo": "Verb",
+    "enWord": "Bow",
+    "irulaWord": "வானெங்குகடு",
+    "taWord": "கும்பிட வேண்டும்",
+    "enMeaning": "The act of bending the head or body as a sign of respect",
+    "taMeaning": "மரியாதையின் அடையாளமாக தலை அல்லது உடலை வளைக்கும் செயல்",
+    "category": "Physical Action"
+  },
+  {
+    "lexicalUnit": "muˈaː",
+    "grammaticalInfo": "Noun",
+    "enWord": "Boy",
+    "irulaWord": "முற்",
+    "taWord": "சிறுவன்",
+    "enMeaning": "A boy is a male child.",
+    "taMeaning": "பன்னிரண்டு வயதுக்குட்பட்ட ஒரு சிறுவன்",
+    "category": "Gender"
+  },
+  {
+    "lexicalUnit": "aɳ.ne",
+    "grammaticalInfo": "Noun",
+    "enWord": "Brother",
+    "irulaWord": "அண்ணன்",
+    "taWord": "சகோதரன்",
+    "enMeaning": "A male with the same parents as someone else",
+    "taMeaning": "பெற்றோருடன் இருக்கும் ஓர் ஆண்",
+    "category": "Kinship"
+  },
+  {
+    "lexicalUnit": "ˈkaː.ɖa ˈeːru.me",
+    "grammaticalInfo": "Noun",
+    "enWord": "Buffalo",
+    "irulaWord": "கடைஎருமை",
+    "taWord": "எருமை",
+    "enMeaning": "A buffalo is a large, ox-like animal with horns and shaggy fur.",
+    "taMeaning": "நீண்டு வளைந்த கொம்பும் கரிய நிறமும் தடித்த தோலும் கொண்ட ஒரு வகை மாடு",
+    "category": "animal"
+  },
+  {
+    "lexicalUnit": "ˈɡuː.ɭi",
+    "grammaticalInfo": "Noun",
+    "enWord": "Bull",
+    "irulaWord": "கூலி",
+    "taWord": "காளை",
+    "enMeaning": "A bull is a male cow",
+    "taMeaning": "ஆண் மாடு",
+    "category": "animal"
+  },
+  {
+    "lexicalUnit": "ˈbeɳ.ne",
+    "grammaticalInfo": "Noun",
+    "enWord": "Butter",
+    "irulaWord": "வெண்ணெய்",
+    "taWord": "வெண்ணெய்",
+    "enMeaning": "An edible emulsion of fat globules made by churning milk or cream; for cooking and table use.",
+    "taMeaning": "தயிரைக் கடையும்போது திரண்டுவரும் பிசுபிசுப்புத் தன்மை கொண்ட, கொழுப்புச் சத்து நிறைந்த, வெளிர் பழுப்பு நிறப் பொருள்",
+    "category": "food"
+  },
+  {
+    "lexicalUnit": "ˈed̪uˈð.θoɳ.ɖu poɡaː.θu",
+    "grammaticalInfo": "Verb",
+    "enWord": "Carry",
+    "irulaWord": "ஏடுதொண்டுபோகடு",
+    "taWord": "சுமக்க",
+    "enMeaning": "To move while supporting in one's hands",
+    "taMeaning": "ஒருவரின் கைகளில் தாங்கிக்கொண்டு நகர்த்துவது",
+    "category": "Physical Action"
+  },
+  {
+    "lexicalUnit": "puːj.nej",
+    "grammaticalInfo": "Noun",
+    "enWord": "Cat",
+    "irulaWord": "பூனை",
+    "taWord": "பூனை",
+    "enMeaning": "Feline mammal usually having thick soft fur and no ability to roar: domestic cats; wildcats.",
+    "taMeaning": "வாயின் மேற்புறம் மீசை போன்ற நீளமான முடியையும் உடல் முழுவதும் அடர்ந்த மெல்லிய ரோமத்தையும் உடைய (எலியை விரட்டிப் பிடிக்கும்) சிறிய வீட்டு விலங்கு",
+    "category": "animal"
+  },
+  {
+    "lexicalUnit": "kaˈɳ.ni ve.θu piˈɖi.ka.θu",
+    "grammaticalInfo": "Verb",
+    "enWord": "Catch",
+    "irulaWord": "கண்ணிவெதுப்பிடிக்காடு",
+    "taWord": "பிடிக்க",
+    "enMeaning": "Capture as if by hunting, snaring, or trapping",
+    "taMeaning": "வேட்டையாடுதல், பொறிவைத்தல் அல்லது பொறியில் சிக்குவது போன்றவற்றைப் பிடிக்கவும்",
+    "category": "Physical Action"
+  },
+  {
+    "lexicalUnit": "ɛ.ɻɛ",
+    "grammaticalInfo": "Noun",
+    "enWord": "Cave",
+    "irulaWord": "எலே",
+    "taWord": "குகை",
+    "enMeaning": "A geological formation consisting of an underground enclosure with access from the surface of the ground or from the sea.",
+    "taMeaning": "மலையில் இயற்கையாக அமைந்துள்ள பொந்து போன்ற வெற்றிடம் அல்லது நீண்ட வழி.",
+    "category": "Earth"
+  },
+  {
+    "lexicalUnit": "θoˈre.le əˈɖi.kaˌθu",
+    "grammaticalInfo": "Verb",
+    "enWord": "Clap",
+    "irulaWord": "தோரெளடிக்காடு",
+    "taWord": "கைதட்ட",
+    "enMeaning": "Strike with the flat of the hand; usually in a friendly way, as in encouragement or greeting",
+    "taMeaning": "கையின் தட்டையால் அடிக்கவும்; பொதுவாக ஒரு நட்பு வழியில், ஊக்கம் அல்லது வாழ்த்து போன்ற",
+    "category": "Physical Action"
+  },
+  {
+    "lexicalUnit": "suð.θa ma.ɖu ɡað.θu",
+    "grammaticalInfo": "Verb",
+    "enWord": "Clean",
+    "irulaWord": "சுதமடுக்காது",
+    "taWord": "தூய்மைப்படுத்த",
+    "enMeaning": "Remove unwanted substances from",
+    "taMeaning": "தேவையற்ற பொருட்களை அகற்றவும்",
+    "category": "Physical Action"
+  },
+  {
+    "lexicalUnit": "ˈmɐɲ.d͡ʒu",
+    "grammaticalInfo": "Noun",
+    "enWord": "Cloud",
+    "irulaWord": "மஞ்சு",
+    "taWord": "மேகம்",
+    "enMeaning": "A cloud is a clump of water vapor that you can see in the sky.",
+    "taMeaning": "வானில் மிதக்கும் திரவ நீராவியின் நிறை.",
+    "category": "Sky"
+  },
+  {
+    "lexicalUnit": "bɐˈθ.ðe",
+    "grammaticalInfo": "Noun",
+    "enWord": "Cockroach",
+    "irulaWord": "படித்தே",
+    "taWord": "கரப்பான் பூச்சி",
+    "enMeaning": "Any of numerous chiefly nocturnal insects; some are domestic pests.",
+    "taMeaning": "நீண்ட ஆண்டெனா மற்றும் கால்கள் மற்றும் பொதுவாக அகலமான, தட்டையான உடலைக் கொண்ட ஒரு வண்டுக்கு ஒத்த ஒரு பூச்சி",
+    "category": "Insect"
+  },
+  {
+    "lexicalUnit": "kaː.pi",
+    "grammaticalInfo": "Noun",
+    "enWord": "Coffee",
+    "irulaWord": "காபி",
+    "taWord": "காப்பி",
+    "enMeaning": "A beverage consisting of an infusion of ground coffee beans.",
+    "taMeaning": "கொதிக்கும் நீரில் காபித் தூளைப் போட்டு வடிகட்டி, பாலில் கலந்து, தேவையான அளவு இனிப்புச் சேர்த்துத் தயாரிக்கப்படும் பானம்.",
+    "category": "food"
+  },
+  {
+    "lexicalUnit": "sɐ.l̪ɪ",
+    "grammaticalInfo": "Noun",
+    "enWord": "Cold",
+    "irulaWord": "சளி",
+    "taWord": "சளி",
+    "enMeaning": "A mild viral infection involving the nose and respiratory passages.",
+    "taMeaning": "ஜலதோஷம்.",
+    "category": "Ailment"
+  },
+  {
+    "lexicalUnit": "muʧ.ʧi veˈk.kaːθu",
+    "grammaticalInfo": "Verb",
+    "enWord": "Cover",
+    "irulaWord": "மோச்சிவக்காடு",
+    "taWord": "மூடுவதற்கு",
+    "enMeaning": "Put something on top of something else",
+    "taMeaning": "வேறொன்றின் மேல் எதையாவது வைக்கவும்.",
+    "category": "Physical Action"
+  },
+  {
+    "lexicalUnit": "ˈkaː.l maː.du",
+    "grammaticalInfo": "Noun",
+    "enWord": "Cow",
+    "irulaWord": "காளைமாடு",
+    "taWord": "மாடு",
+    "enMeaning": "Mature female of mammals of which the male is called `bull'.",
+    "taMeaning": "உழுதல், வண்டி இழுத்தல் போன்றவற்றுக்குப் பயன்படுத்தும் ஆணினத்தையும் பால் தரக்கூடிய பெண்ணினத்தையும் உள்ளடக்கிய, (கொம்புடைய) வீட்டு விலங்கின் பொதுப்பெயர்",
+    "category": "animal"
+  },
+  {
+    "lexicalUnit": "kaːk.ke",
+    "grammaticalInfo": "Noun",
+    "enWord": "Crow",
+    "irulaWord": "காக்கை",
+    "taWord": "காகம்",
+    "enMeaning": "A crow is a large, intelligent, black bird with a loud call.",
+    "taMeaning": "‘கா, கா’ என்று கரகரப்பாக ஒலி எழுப்பும் (பெரும்பாலும் மனிதர்களின் வசிப்பிடங்களில் காணப்படும்) ஒரு கரிய நிறப் பறவை",
+    "category": "Birds"
+  },
+  {
+    "lexicalUnit": "ˈka͡j ka.ri ˈsaːru",
+    "grammaticalInfo": "Noun",
+    "enWord": "Curry",
+    "irulaWord": "காய்கறிச்சாறு",
+    "taWord": "கறி",
+    "enMeaning": "A dish of vegetables or meats flavored with curry powder and usually eaten with rice.",
+    "taMeaning": "(காய்கறி அல்லது இறைச்சியை துண்டுகளாக்கி ஆவியில் வேகவைத்து தயாரிக்கப்படுகிறது) மென்மையான அல்லது திட உணவு",
+    "category": "food"
+  },
+  {
+    "lexicalUnit": "kəð.ðɐleː",
+    "grammaticalInfo": "Noun",
+    "enWord": "Darkness",
+    "irulaWord": "கததிலே",
+    "taWord": "இருள்",
+    "enMeaning": "Absence of light or illumination.",
+    "taMeaning": "(வெளிச்சம் குறைந்து) இருட்டு பரவுதல்.",
+    "category": "Earth"
+  },
+  {
+    "lexicalUnit": "ñ̪æ.sə ma.ɖu ɡað.θu",
+    "grammaticalInfo": "Verb",
+    "enWord": "Demolish",
+    "irulaWord": "நாசமாடுகடு",
+    "taWord": "இடிக்க வேண்டும்",
+    "enMeaning": "Destroy completely",
+    "taMeaning": "முற்றிலும் அழிக்கவும்",
+    "category": "Physical Action"
+  },
+  {
+    "lexicalUnit": "va.ˈraː kaː.ɖu",
+    "grammaticalInfo": "Noun",
+    "enWord": "Desert",
+    "irulaWord": "வரக்காடு",
+    "taWord": "பாலைவனம்",
+    "enMeaning": "A desert is a very dry area of land where few plants and animals can live.",
+    "taMeaning": "கடும் வெப்பம் நிறைந்த, மிகமிகக் குறைந்த அளவே நீரும் தாவரங்களும் காணப்படும் பரந்த மணல் வெளி.",
+    "category": "Earth"
+  },
+  {
+    "lexicalUnit": "pa.ɭ ma.ɖu ɡað.θu",
+    "grammaticalInfo": "Verb",
+    "enWord": "Destroy",
+    "irulaWord": "பல்மடக்டு",
+    "taWord": "அழிக்க",
+    "enMeaning": "Do away with, cause the destruction or undoing of",
+    "taMeaning": "அப்புறப்படுத்துங்கள், அழிவை ஏற்படுத்துங்கள் அல்லது செயல்தவிர்க்கவும்",
+    "category": "Physical Action"
+  },
+  {
+    "lexicalUnit": "θoːp.pale",
+    "grammaticalInfo": "Verb",
+    "enWord": "Dilute",
+    "irulaWord": "தோப்பிலே",
+    "taWord": "நீர்த்துப்போக",
+    "enMeaning": "To lessen the strength or flavor of a solution or mixture",
+    "taMeaning": "ஒரு கரைசல் அல்லது கலவையின் வலிமை அல்லது சுவையைக் குறைக்க",
+    "category": "Physical Action"
+  },
+  {
+    "lexicalUnit": "seːj.θu ɡað.θu",
+    "grammaticalInfo": "Verb",
+    "enWord": "Do",
+    "irulaWord": "செய்துகடு",
+    "taWord": "செய்ய",
+    "enMeaning": "Carry out or perform an action",
+    "taMeaning": "ஒரு செயலைச் செய்யவும் அல்லது செய்யவும்",
+    "category": "Physical Action"
+  },
+  {
+    "lexicalUnit": "ˈn̪aːji",
+    "grammaticalInfo": "Noun",
+    "enWord": "Dog",
+    "irulaWord": "நாய்",
+    "taWord": "நாய்",
+    "enMeaning": "A canine domesticated by man since prehistoric times.",
+    "taMeaning": "காவலுக்காகவோ செல்லப் பிராணியாகவோ வளர்க்கப்படும் வீட்டு விலங்கு",
+    "category": "animal"
+  },
+  {
+    "lexicalUnit": "ku.ve ˈpaː.ɾu",
+    "grammaticalInfo": "Adverb",
+    "enWord": "Downwards",
+    "irulaWord": "க்வேப்பாரு",
+    "taWord": "கீழ்நோக்கி",
+    "enMeaning": "Going from a higher to a lower level or position",
+    "taMeaning": "உயர்ந்த நிலையிலிருந்து கீழ் நிலை அல்லது நிலைக்குச் செல்வது",
+    "category": "Direction"
+  },
+  {
+    "lexicalUnit": "ve.rej ɡað.θu",
+    "grammaticalInfo": "Verb",
+    "enWord": "Draw",
+    "irulaWord": "வேரெக்டு",
+    "taWord": "வரைவதற்கு",
+    "enMeaning": "To make a mark or lines on a surface",
+    "taMeaning": "ஒரு மேற்பரப்பில் ஒரு குறி அல்லது கோடுகளை உருவாக்க",
+    "category": "Physical Action"
+  },
+  {
+    "lexicalUnit": "bað.θu",
+    "grammaticalInfo": "Noun",
+    "enWord": "Duck",
+    "irulaWord": "வாத்து",
+    "taWord": "வாத்து",
+    "enMeaning": "A duck is a bird that spends much of its life on or near water.",
+    "taMeaning": "வாத்து என்பது தன் வாழ்நாளின் பெரும்பகுதியை தண்ணீரிலோ அல்லது அருகிலோ கழிக்கும் பறவை.",
+    "category": "birds"
+  },
+  {
+    "lexicalUnit": "ˈkaːðo.le",
+    "grammaticalInfo": "Noun",
+    "enWord": "Earring",
+    "irulaWord": "காடோலே",
+    "taWord": "காதணி",
+    "enMeaning": "Jewelry to ornament the ear; usually clipped to the earlobe or fastened through a hole in the lobe",
+    "taMeaning": "காதை அலங்கரிக்க நகைகள்",
+    "category": "Ornaments"
+  },
+  {
+    "lexicalUnit": "ˈkaː.θu",
+    "grammaticalInfo": "Noun",
+    "enWord": "Ears",
+    "irulaWord": "காது",
+    "taWord": "காதுகள்",
+    "enMeaning": "The sense organ for hearing and equilibrium.",
+    "taMeaning": "செவிப்புலன் மற்றும் சமநிலைக்கான உணர்வு உறுப்பு",
+    "category": "body parts"
+  },
+  {
+    "lexicalUnit": "buː.mi əˈðɾ̪.ʧi aˈku.θu",
+    "grammaticalInfo": "Noun",
+    "enWord": "Earthquake",
+    "irulaWord": "பூமிஅதிர்ச்சியாகாது",
+    "taWord": "நிலநடுக்கம்",
+    "enMeaning": "Shaking and vibration at the surface of the earth.",
+    "taMeaning": "(கண்டத்தட்டுகள் மோதிக்கொள்வதால்) பூமியின் மேல்பரப்பு அடையும் அதிர்வு.",
+    "category": "Earth"
+  },
+  {
+    "lexicalUnit": "ˈkiɭaː.ku",
+    "grammaticalInfo": "Noun",
+    "enWord": "East",
+    "irulaWord": "கிழக்கு",
+    "taWord": "கிழக்கு",
+    "enMeaning": "The direction towards the point of the horizon where the sun rises",
+    "taMeaning": "சூரியன் உதிக்கும் அடிவானத்தின் புள்ளியை நோக்கிய திசை",
+    "category": "Direction"
+  },
+  {
+    "lexicalUnit": "muˈʈ.ʈeː",
+    "grammaticalInfo": "Noun",
+    "enWord": "Egg",
+    "irulaWord": "முட்டை",
+    "taWord": "முட்டை",
+    "enMeaning": "An egg is the shell-covered, roundish object that's laid by birds and reptiles, which usually has an embryo inside.",
+    "taMeaning": "பறவைகளில், ஊர்வனவற்றில் பெண்ணினம் இடும்) குஞ்சு வளர்வதற்கான கருவைக் கொண்ட நீள்கோள அல்லது உருண்டை வடிவப் பொருள்/(குறிப்பாக, உண்பதற்குப் பயன்படுத்தும்) கோழி முட்டை",
+    "category": "Insect"
+  },
+  {
+    "lexicalUnit": "ðiː kɐˈɳ.ɖa",
+    "grammaticalInfo": "Noun",
+    "enWord": "Ember",
+    "irulaWord": "திகண்ட",
+    "taWord": "எரிக்கரி",
+    "enMeaning": "A hot fragment of wood or coal that is left from a fire and is glowing or smoldering.",
+    "taMeaning": "நெருப்பிலிருந்து எஞ்சியிருக்கும் மரம் அல்லது நிலக்கரியின் சூடான துண்டு.",
+    "category": "Earth"
+  },
+  {
+    "lexicalUnit": "kæ.li ma.ɖu ɡað.θu",
+    "grammaticalInfo": "Verb",
+    "enWord": "Empty",
+    "irulaWord": "கால்லிமடுகடு",
+    "taWord": "காலி செய்ய",
+    "enMeaning": "To remove the contents",
+    "taMeaning": "உள்ளடக்கங்களை அகற்ற",
+    "category": "Physical Action"
+  },
+  {
+    "lexicalUnit": "ˈθa.d̪u ka.θu",
+    "grammaticalInfo": "Verb",
+    "enWord": "Erase",
+    "irulaWord": "துதேய்க்காடு",
+    "taWord": "அழிப்பதற்கு",
+    "enMeaning": "Remove by or as if by rubbing or erasing",
+    "taMeaning": "தேய்த்தல் அல்லது அழிப்பதன் மூலம் அல்லது அகற்றுவது போல் அகற்றவும்",
+    "category": "Physical Action"
+  },
+  {
+    "lexicalUnit": "ko.ɖu ka.θu",
+    "grammaticalInfo": "Verb",
+    "enWord": "Extinguish",
+    "irulaWord": "கூடுகடு",
+    "taWord": "அணைக்க",
+    "enMeaning": "To put out, as of fires, flames, or lights",
+    "taMeaning": "தீ, தீப்பிழம்புகள் அல்லது விளக்குகள் என அணைக்க",
+    "category": "Physical Action"
+  },
+  {
+    "lexicalUnit": "ˈkɐɳ.nu",
+    "grammaticalInfo": "Noun",
+    "enWord": "Eye",
+    "irulaWord": "கண்",
+    "taWord": "கண்",
+    "enMeaning": "An eye is the part of your body that makes it possible for you to see.",
+    "taMeaning": "ஒரு கண் என்பது உங்கள் உடலின் ஒரு பகுதியாகும், இது உங்களைப் பார்க்க அனுமதிக்கிறது.",
+    "category": "body parts"
+  },
+  {
+    "lexicalUnit": "ˈmuːðej",
+    "grammaticalInfo": "Noun",
+    "enWord": "Face",
+    "irulaWord": "முதே",
+    "taWord": "முகம்",
+    "enMeaning": "The front of the human head from the forehead to the chin and ear to ear.",
+    "taMeaning": "நெற்றியில் இருந்து கன்னம் மற்றும் காது முதல் காது வரை மனித தலையின் முன்பகுதி",
+    "category": "body parts"
+  },
+  {
+    "lexicalUnit": "ˈθuː.ra",
+    "grammaticalInfo": "Adjective",
+    "enWord": "Far",
+    "irulaWord": "டூரா",
+    "taWord": "தொலைவான",
+    "enMeaning": "Located at a great distance in time or space or degree",
+    "taMeaning": "நேரம் அல்லது இடம் அல்லது பட்டத்தில் அதிக தொலைவில் அமைந்துள்ளது",
+    "category": "Direction"
+  },
+  {
+    "lexicalUnit": "am.mæ",
+    "grammaticalInfo": "Noun",
+    "enWord": "Father",
+    "irulaWord": "அம்மையே",
+    "taWord": "அப்பா",
+    "enMeaning": "A male parent",
+    "taMeaning": "தந்தை",
+    "category": "Kinship"
+  },
+  {
+    "lexicalUnit": "ðiː",
+    "grammaticalInfo": "Noun",
+    "enWord": "Fire",
+    "irulaWord": "தி",
+    "taWord": "தீ",
+    "enMeaning": "The process of combustion of inflammable materials producing heat and light and (often) smoke.",
+    "taMeaning": "வெப்பம் மற்றும் ஒளி, மற்றும் (பெரும்பாலும்) புகையை உருவாக்கும் எரியக்கூடிய பொருட்களின் எரிப்பு செயல்முறை.",
+    "category": "Earth"
+  },
+  {
+    "lexicalUnit": "ˈmiː.nʊ",
+    "grammaticalInfo": "Noun",
+    "enWord": "Fish",
+    "irulaWord": "மீன்",
+    "taWord": "மீன்",
+    "enMeaning": "Any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills.",
+    "taMeaning": "உடலில் அமைந்திருக்கும் துடுப்புகளாலும் வாலாலும் நீந்திச் செல்லும் (பெரும்பாலும் மனிதர் உணவுக்காகப் பிடிக்கும்) ஒரு வகை நீர்வாழ் உயிரினம்",
+    "category": "animal"
+  },
+  {
+    "lexicalUnit": "vɛl.lɐm",
+    "grammaticalInfo": "Noun",
+    "enWord": "Flood",
+    "irulaWord": "வெள்ளம்",
+    "taWord": "வெள்ளம்",
+    "enMeaning": "The rising of a body of water and its overflowing onto normally dry land",
+    "taMeaning": "கடும் மழை, கரைபுரண்டு ஓடும் ஆறு முதலியவற்றால் ஏற்படும்) நீர்ப்பெருக்கு; பெருமளவில் விரைந்துசெல்லும் தண்ணீர்",
+    "category": "Earth"
+  },
+  {
+    "lexicalUnit": "ˈpo.ɖiˌmæ",
+    "grammaticalInfo": "Noun",
+    "enWord": "Flour",
+    "irulaWord": "பொடிமாவு",
+    "taWord": "மாவு",
+    "enMeaning": "Fine powdery foodstuff obtained by grinding and sifting the meal of a cereal grain.",
+    "taMeaning": "(அரிசி, கோதுமை மற்றும் தினை போன்ற உலர்ந்த தானியங்கள்) அரைப்பதன் மூலம் பெறப்பட்ட ஒரு மெல்லிய தூள்.",
+    "category": "food"
+  },
+  {
+    "lexicalUnit": "ˈiːj.pi",
+    "grammaticalInfo": "Noun",
+    "enWord": "Fly",
+    "irulaWord": "ஈபி",
+    "taWord": "ஈ",
+    "enMeaning": "Two-winged insects characterized by active flight.",
+    "taMeaning": "ஒரு பெரிய வரிசையின் பறக்கும் பூச்சி ஒரு ஜோடி வெளிப்படையான இறக்கைகள் மற்றும் உறிஞ்சும் தன்மையால் வகைப்படுத்தப்படுகிறது",
+    "category": "Insect"
+  },
+  {
+    "lexicalUnit": "ma.ɖi ka.θu",
+    "grammaticalInfo": "Verb",
+    "enWord": "Fold",
+    "irulaWord": "மடிக்காடு",
+    "taWord": "மடிப்பதற்கு",
+    "enMeaning": "To bend or lay so that one part covers the other",
+    "taMeaning": "ஒரு பகுதி மற்றொன்றை மறைக்கும் வகையில் வளைத்தல் அல்லது இடுதல்",
+    "category": "Physical Action"
+  },
+  {
+    "lexicalUnit": "ˈsoː.ru",
+    "grammaticalInfo": "Noun",
+    "enWord": "Food",
+    "irulaWord": "சோறு",
+    "taWord": "உணவு",
+    "enMeaning": "Any substance that can be metabolized by an animal to give energy and build tissue.",
+    "taMeaning": "(மனிதர்கள், விலங்குகள் போன்றவை) உயிர்வாழ்வதற்காக உட்கொள்வது",
+    "category": "food"
+  },
+  {
+    "lexicalUnit": "ˈʧole",
+    "grammaticalInfo": "Noun",
+    "enWord": "Forest",
+    "irulaWord": "சொல்",
+    "taWord": "காடு",
+    "enMeaning": "A forest is a densely wooded area, or land covered with trees and shrubs.",
+    "taMeaning": "மரங்கள் மற்றும் தாவரங்கள் இயற்கையாக அடர்த்தியாக இருக்கும் ஒரு பகுதி (விலங்குகளின் வாழ்விடங்கள்); காடு",
+    "category": "Earth"
+  },
+  {
+    "lexicalUnit": "ˈθiːˈveɾə.ɡu",
+    "grammaticalInfo": "Noun",
+    "enWord": "Fuel",
+    "irulaWord": "வேறெங்கு",
+    "taWord": "எரிபொருள்",
+    "enMeaning": "A substance that can be consumed to produce energy.",
+    "taMeaning": "(மரம், மண்ணெண்ணெய் போன்றவை) ஆற்றலைப் பெறப் பயன்படுத்தப்படும் ஒரு பொருள்",
+    "category": "food"
+  },
+  {
+    "lexicalUnit": "puːma.le",
+    "grammaticalInfo": "Noun",
+    "enWord": "Garland",
+    "irulaWord": "பூமாலை",
+    "taWord": "மாலை",
+    "enMeaning": "Flower arrangement consisting of a circular band of foliage or flowers for ornamental purposes",
+    "taMeaning": "அலங்கார நோக்கங்களுக்காக ஒரு வட்ட வடிவ பசுமையாக அல்லது மலர்களைக் கொண்ட மலர் ஏற்பாடு",
+    "category": "Ornaments"
+  },
+  {
+    "lexicalUnit": "oːn.ɳə ˈseː.ɾu ɡað.θu",
+    "grammaticalInfo": "Verb",
+    "enWord": "Gather",
+    "irulaWord": "ஓணாசெருகடு",
+    "taWord": "ஒன்று கூட",
+    "enMeaning": "Assemble or get together",
+    "taMeaning": "ஒன்று கூடுங்கள் அல்லது ஒன்று சேருங்கள்",
+    "category": "Physical Action"
+  },
+  {
+    "lexicalUnit": "θu.pa",
+    "grammaticalInfo": "Noun",
+    "enWord": "Ghee",
+    "irulaWord": "பூபா",
+    "taWord": "நெய்",
+    "enMeaning": "Clarified butter used in Indian cooking",
+    "taMeaning": "இந்திய சமையலில் பயன்படுத்தப்படும் தெளிவுபடுத்தப்பட்ட வெண்ணெய்",
+    "category": "Food"
+  },
+  {
+    "lexicalUnit": "ʧɪ.nə pɐ.ðe",
+    "grammaticalInfo": "Noun",
+    "enWord": "Girl",
+    "irulaWord": "சீனப்பதே",
+    "taWord": "பெண்",
+    "enMeaning": "A girl is a young woman, or a female child.",
+    "taMeaning": "பிறந்தது முதல் பதினெட்டு வயது வரை ஒரு பெண் குழந்தை.",
+    "category": "Gender"
+  },
+  {
+    "lexicalUnit": "pɐð.t͡ʃe",
+    "grammaticalInfo": "Noun",
+    "enWord": "Green",
+    "irulaWord": "பச்சை",
+    "taWord": "பச்சை",
+    "enMeaning": "Resembling the color of growing grass",
+    "taMeaning": "பச்சை நிறம் அல்லது நிறமி",
+    "category": "Colour"
+  },
+  {
+    "lexicalUnit": "ˈθe.læ mɐˈɳ.ɖe",
+    "grammaticalInfo": "Noun",
+    "enWord": "Hair",
+    "irulaWord": "தேளெமண்டை",
+    "taWord": "முடி",
+    "enMeaning": "Hair is the strands of fiber that grow from a person's skin, especially on the scalp.",
+    "taMeaning": "முடி என்பது ஒரு நபரின் தோலில் இருந்து, குறிப்பாக உச்சந்தலையில் வளரும் நார்ச்சத்து ஆகும்.",
+    "category": "Body Parts"
+  },
+  {
+    "lexicalUnit": "ˈðe.lej",
+    "grammaticalInfo": "Noun",
+    "enWord": "Head",
+    "irulaWord": "தலை",
+    "taWord": "தலை",
+    "enMeaning": "The upper part of the human body or the front part of the body in animals.",
+    "taMeaning": "உடலின் மேல்பகுதியில் கண், வாய் முதலிய உறுப்புகள் உள்ள பகுதி",
+    "category": "body parts"
+  },
+  {
+    "lexicalUnit": "ˈn̪eŋ.d͡ʒu",
+    "grammaticalInfo": "Noun",
+    "enWord": "Heart",
+    "irulaWord": "நெஞ்சு",
+    "taWord": "இதயம்",
+    "enMeaning": "The hollow muscular organ located behind the sternum and between the lungs; its rhythmic contractions move the blood through the body.",
+    "taMeaning": "சுருங்கி விரிவதால் இரத்த ஓட்டத்தை ஏற்படுத்துவதும் மார்புக்கூட்டினுள் அமைந்துள்ளதுமான தசையால் ஆன உள் உறுப்பு",
+    "category": "body parts"
+  },
+  {
+    "lexicalUnit": "imˈbuˌɖi",
+    "grammaticalInfo": "Noun",
+    "enWord": "Heel",
+    "irulaWord": "இப்புடி",
+    "taWord": "குதிகால்",
+    "enMeaning": "The back part of the human foot",
+    "taMeaning": "மனித பாதத்தின் பின் பகுதி",
+    "category": "Body Parts"
+  },
+  {
+    "lexicalUnit": "koːj.ji",
+    "grammaticalInfo": "Noun",
+    "enWord": "Hen",
+    "irulaWord": "கோழி",
+    "taWord": "கோழி",
+    "enMeaning": "A hen is a female chicken.",
+    "taMeaning": "(பொதுவாக) முட்டைக்காகவும் இறைச்சிக்காகவும் வளர்க்கப்படும், கொண்டை அற்ற பெண் இனத்தையும் சிவப்பு நிறக் கொண்டையை உடைய ஆண் இனத்தையும் கொண்டிருக்கும், அதிக உயரம் பறக்காத பறவை; (குறிப்பாக) மேற்குறிப்பிட்ட இனத்தின் பெண் பறவை",
+    "category": "birds"
+  },
+  {
+    "lexicalUnit": "pu.d̪i ka.θu",
+    "grammaticalInfo": "Verb",
+    "enWord": "Hold",
+    "irulaWord": "புடிக்காது",
+    "taWord": "பிடி",
+    "enMeaning": "To have in one's hands or grip",
+    "taMeaning": "ஒருவரின் கைகளில் அல்லது பிடியில் இருப்பது",
+    "category": "Physical Action"
+  },
+  {
+    "lexicalUnit": "θeˈjn",
+    "grammaticalInfo": "Noun",
+    "enWord": "Honey",
+    "irulaWord": "தேன்",
+    "taWord": "தேன்",
+    "enMeaning": "A sweet yellow liquid produced by bees",
+    "taMeaning": "பூக்களால் சுரக்கப்படும் இனிப்பு சுவை கொண்ட திரவம் (பட்டாம்பூச்சிகள், தேனீக்கள் போன்றவற்றுக்கான உணவு).",
+    "category": "food"
+  },
+  {
+    "lexicalUnit": "ka.ni ˈkɐ.lu",
+    "grammaticalInfo": "Noun",
+    "enWord": "Ice",
+    "irulaWord": "காணிகளு",
+    "taWord": "பனிக்கட்டி",
+    "enMeaning": "Water frozen in the solid state",
+    "taMeaning": "உறைந்த நீர்",
+    "category": "Air"
+  },
+  {
+    "lexicalUnit": "ˈɡeɖ.ɖa",
+    "grammaticalInfo": "Noun",
+    "enWord": "Jaw",
+    "irulaWord": "கூட",
+    "taWord": "தாடை",
+    "enMeaning": "The part of the skull of a vertebrate that frames the mouth and holds the teeth",
+    "taMeaning": "ஒரு முதுகெலும்பு மண்டை ஓட்டின் பகுதி வாயை கட்டமைத்து பற்களை வைத்திருக்கும்",
+    "category": "Body Parts"
+  },
+  {
+    "lexicalUnit": "aːˈɖu.ɡə  ku.re͡j",
+    "grammaticalInfo": "Noun",
+    "enWord": "Kitchen",
+    "irulaWord": "அடுக்கக்குறை",
+    "taWord": "சமையலறை",
+    "enMeaning": "A room equipped for preparing meals",
+    "taMeaning": "உணவு தயாரிக்கும் அறை",
+    "category": "Cooking"
+  },
+  {
+    "lexicalUnit": "sɐˈn̪.θu ˈmuʈ.ʈi",
+    "grammaticalInfo": "Noun",
+    "enWord": "Knee",
+    "irulaWord": "சாண்ட்டுமுடி",
+    "taWord": "முழங்கால்",
+    "enMeaning": "Your knee is the joint in your leg that joins your thigh with your shin, making it possible for you to bend your leg.",
+    "taMeaning": "தொடைக்குக் கீழே காலை மடக்கி நீட்டக்கூடிய, மூட்டு அமைந்திருக்கும் பகுதி",
+    "category": "body parts"
+  },
+  {
+    "lexicalUnit": "ˈki.ɖa paˈk.kə",
+    "grammaticalInfo": "Adjective",
+    "enWord": "Left",
+    "irulaWord": "கிடைப்பக்கா",
+    "taWord": "இடது கை",
+    "enMeaning": "Being or located on or directed toward the side of the body to the west when facing north",
+    "taMeaning": "வடக்கை எதிர்கொள்ளும் போது மேற்கில் உடலின் பக்கமாக இருப்பது அல்லது அமைந்துள்ளது",
+    "category": "Direction"
+  },
+  {
+    "lexicalUnit": "ˈka.lu",
+    "grammaticalInfo": "Noun",
+    "enWord": "Leg",
+    "irulaWord": "கால்",
+    "taWord": "கால்",
+    "enMeaning": "A leg is the part of a person's body that they use to walk around.",
+    "taMeaning": "கால் என்பது ஒரு நபரின் உடலின் ஒரு பகுதியாகும், அது அவர்கள் சுற்றி நடக்க பயன்படுத்துகிறது.",
+    "category": "body parts"
+  },
+  {
+    "lexicalUnit": "n̪ɐɖu.ve",
+    "grammaticalInfo": "Noun",
+    "enWord": "Middle",
+    "irulaWord": "நடுவே",
+    "taWord": "நடுத்தர",
+    "enMeaning": "An area that is approximately central within some larger region",
+    "taMeaning": "சில பெரிய பகுதிகளுக்குள் தோராயமாக மையமாக இருக்கும் பகுதி",
+    "category": "Direction"
+  },
+  {
+    "lexicalUnit": "ˈpaː.lu",
+    "grammaticalInfo": "Noun",
+    "enWord": "Milk",
+    "irulaWord": "பால்",
+    "taWord": "பால்",
+    "enMeaning": "A white nutritious liquid secreted by mammals and used as food by human beings",
+    "taMeaning": "பாலூட்டிகளால் சுரக்கப்படும் மற்றும் மனிதர்களால் உணவாகப் பயன்படுத்தப்படும் வெள்ளை சத்தான திரவம்",
+    "category": "Food"
+  },
+  {
+    "lexicalUnit": "n̪iː.lə",
+    "grammaticalInfo": "Noun",
+    "enWord": "Moon",
+    "irulaWord": "நிலா",
+    "taWord": "நிலா",
+    "enMeaning": "The natural satellite of the Earth.",
+    "taMeaning": "சந்திரன்",
+    "category": "Sky"
+  },
+  {
+    "lexicalUnit": "kus.ne",
+    "grammaticalInfo": "Noun",
+    "enWord": "Mosquito",
+    "irulaWord": "குசுனே",
+    "taWord": "கொசு",
+    "enMeaning": "Two-winged insect whose female has a long proboscis to pierce the skin and suck the blood of humans and animals.",
+    "taMeaning": "இரண்டு இறக்கைகள் கொண்ட பூச்சி, அதன் பெண்ணின் தோலைத் துளைத்து, மனிதர்கள் மற்றும் விலங்குகளின் இரத்தத்தை உறிஞ்சுவதற்கு நீண்ட புரோபோஸ்கிஸ் உள்ளது",
+    "category": "Insect"
+  },
+  {
+    "lexicalUnit": "ðoɳ.ɖɪl ˈpuː.si",
+    "grammaticalInfo": "Noun",
+    "enWord": "Moth",
+    "irulaWord": "தோண்டில்பூசி",
+    "taWord": "அந்துப்பூச்சி",
+    "enMeaning": "Typically crepuscular or nocturnal insect having a stout body and feathery or hair like antennae.",
+    "taMeaning": "பொதுவாக க்ரெபஸ்குலர் அல்லது இரவு நேர பூச்சிகள் தடிமனான உடல் மற்றும் இறகுகள் அல்லது முடி போன்ற ஆண்டெனாக்கள் கொண்டவை",
+    "category": "Insect"
+  },
+  {
+    "lexicalUnit": "aɡ.ɡʋej",
+    "grammaticalInfo": "Noun",
+    "enWord": "Mother",
+    "irulaWord": "அகவை",
+    "taWord": "அம்மா",
+    "enMeaning": "A mother is a female parent",
+    "taMeaning": "தாய்",
+    "category": "Kinship"
+  },
+  {
+    "lexicalUnit": "ˈbod.ʈu",
+    "grammaticalInfo": "Noun",
+    "enWord": "Mountain",
+    "irulaWord": "போட்டிட்டு",
+    "taWord": "மலை",
+    "enMeaning": "A mountain is a large and often steep landmass that's much higher than the surrounding area.",
+    "taMeaning": "(பூமியின் மேற்பரப்பில்) மேல் நோக்கி, மிக அதிக உயரமாக அமைந்திருக்கும் உறுதியான பாறைகளின் தொகுதி",
+    "category": "Earth"
+  },
+  {
+    "lexicalUnit": "ˈvaːj",
+    "grammaticalInfo": "Noun",
+    "enWord": "Mouth",
+    "irulaWord": "வாய்",
+    "taWord": "வாய்",
+    "enMeaning": "The opening through which food is taken in and vocalizations emerge.",
+    "taMeaning": "உண்பதற்கும், (மனிதன்) பேசுவதற்குமான உறுப்பு",
+    "category": "body parts"
+  },
+  {
+    "lexicalUnit": "pɐk.kaː",
+    "grammaticalInfo": "Adjective",
+    "enWord": "Near",
+    "irulaWord": "பக்க",
+    "taWord": "அருகில்",
+    "enMeaning": "Not far distant in time or space or degree or circumstances",
+    "taMeaning": "நேரம் அல்லது இடம் அல்லது பட்டம் அல்லது சூழ்நிலைகளில் வெகு தொலைவில் இல்லை",
+    "category": "Direction"
+  },
+  {
+    "lexicalUnit": "n̪e.ɖu ɖa.bu",
+    "grammaticalInfo": "Noun",
+    "enWord": "Necklace",
+    "irulaWord": "நடுதாபு",
+    "taWord": "நெக்லஸ்",
+    "enMeaning": "Jewelry consisting of a cord or chain (often bearing gems) worn about the neck as an ornament.",
+    "taMeaning": "கழுத்தில் அணியும் தண்டு அல்லது சங்கிலி (பெரும்பாலும் ரத்தினங்களைத் தாங்கும்) கொண்ட நகைகள் (குறிப்பாக பெண்களால்)",
+    "category": "Ornaments"
+  },
+  {
+    "lexicalUnit": "pɐɖaːk.ku",
+    "grammaticalInfo": "Noun",
+    "enWord": "North",
+    "irulaWord": "படைக்கு",
+    "taWord": "வடக்கு",
+    "enMeaning": "The direction corresponding to the northward cardinal compass point",
+    "taMeaning": "வடக்கு நோக்கிய கார்டினல் திசைகாட்டி புள்ளியுடன் தொடர்புடைய திசை",
+    "category": "Direction"
+  },
+  {
+    "lexicalUnit": "ˈmuː.ku",
+    "grammaticalInfo": "Noun",
+    "enWord": "Nose",
+    "irulaWord": "மூக்கு",
+    "taWord": "மூக்கு",
+    "enMeaning": "The organ of smell and entrance to the respiratory tract; the prominent part of the face of man or other mammals.",
+    "taMeaning": "முகத்தில் இருக்கும் ஒரு உறுப்பு, சுவாசம் மற்றும் வாசனைக்காகப் பயன்படுகிறது",
+    "category": "body parts"
+  },
+  {
+    "lexicalUnit": "ˈeɳ̃.ɳ̃e",
+    "grammaticalInfo": "Noun",
+    "enWord": "Oil",
+    "irulaWord": "எண்ணெய்",
+    "taWord": "எண்ணெய்",
+    "enMeaning": "A slippery or viscous liquid or liquefiable substance not miscible with water",
+    "taMeaning": "ஒரு வழுக்கும் அல்லது பிசுபிசுப்பான திரவம் அல்லது திரவமாக்கும் பொருள் தண்ணீருடன் கலக்காது",
+    "category": "Cooking"
+  },
+  {
+    "lexicalUnit": "voˈʈɐ.li",
+    "grammaticalInfo": "Adverb",
+    "enWord": "Out",
+    "irulaWord": "வோட்டளி",
+    "taWord": "வெளியே",
+    "enMeaning": "Moving or appearing to move away from a place, especially one that is enclosed or hidden",
+    "taMeaning": "ஒரு இடத்திலிருந்து நகர்வது அல்லது நகர்வது போல் தோன்றுகிறது, குறிப்பாக மூடப்பட்ட அல்லது மறைக்கப்பட்ட இடம்",
+    "category": "Direction"
+  },
+  {
+    "lexicalUnit": "ˈn̪oːɡu.θu",
+    "grammaticalInfo": "Noun",
+    "enWord": "Pain",
+    "irulaWord": "நோகுது",
+    "taWord": "வலி",
+    "enMeaning": "A physical feeling of suffering or discomfort",
+    "taMeaning": "துன்பம் அல்லது அசௌகரியத்தின் உடல் உணர்வு",
+    "category": "Ailment"
+  },
+  {
+    "lexicalUnit": "ˈakŋ̩̩̩̃ˌɡa͡j",
+    "grammaticalInfo": "Noun",
+    "enWord": "Palm",
+    "irulaWord": "அஃகை",
+    "taWord": "உள்ளங்கை",
+    "enMeaning": "The inner surface of the hand from the wrist to the base of the fingers.",
+    "taMeaning": "மணிக்கட்டில் இருந்து விரல்களின் அடிப்பகுதி வரை உள்ள கையின் உள் மேற்பரப்பு",
+    "category": "body parts"
+  },
+  {
+    "lexicalUnit": "voˈlu.səŋ̃ kɐ.lu",
+    "grammaticalInfo": "Noun",
+    "enWord": "Pebble",
+    "irulaWord": "வொலுஷன்களு",
+    "taWord": "கூழாங்கல்",
+    "enMeaning": "A small smooth rounded rock",
+    "taMeaning": "ஒரு சிறிய மென்மையான வட்டமான பாறை",
+    "category": "Earth"
+  },
+  {
+    "lexicalUnit": "aːˈru.ve",
+    "grammaticalInfo": "Noun",
+    "enWord": "Pot",
+    "irulaWord": "அறவே",
+    "taWord": "பானை",
+    "enMeaning": "Metal or earthenware cooking vessel that is usually round and deep",
+    "taMeaning": "பொதுவாக வட்டமாகவும் ஆழமாகவும் இருக்கும் உலோகம் அல்லது மண் பாத்திரம்",
+    "category": "Cooking"
+  },
+  {
+    "lexicalUnit": "kaɳep.pɛ",
+    "grammaticalInfo": "Noun",
+    "enWord": "Red",
+    "irulaWord": "கனிப்பு",
+    "taWord": "சிவப்பு",
+    "enMeaning": "Resembling the color of blood or cherries or tomatoes or rubies",
+    "taMeaning": "சிவப்பு நிறம் அல்லது நிறமி",
+    "category": "Colour"
+  },
+  {
+    "lexicalUnit": "aˈɾi.si",
+    "grammaticalInfo": "Noun",
+    "enWord": "Rice",
+    "irulaWord": "அரிசி",
+    "taWord": "அரிசி",
+    "enMeaning": "Grains used as food either unpolished or more often polished.",
+    "taMeaning": "(உணவாகப் பயன்படும், உமி நீக்கப்பட்ட) நெல்லின் மணி",
+    "category": "food"
+  },
+  {
+    "lexicalUnit": "vaˈlaː.ke͡j",
+    "grammaticalInfo": "Adjective",
+    "enWord": "Right",
+    "irulaWord": "வலங்கை",
+    "taWord": "வலது கை",
+    "enMeaning": "Being or located on or directed toward the side of the body to the east when facing north",
+    "taMeaning": "வடக்கு நோக்கி இருக்கும் போது கிழக்கு நோக்கி உடலின் பக்கமாக இருப்பது அல்லது அமைந்துள்ளது",
+    "category": "Direction"
+  },
+  {
+    "lexicalUnit": "uˈŋɡu.rə",
+    "grammaticalInfo": "Noun",
+    "enWord": "Ring",
+    "irulaWord": "ஓங்குறா",
+    "taWord": "மோதிரம்",
+    "enMeaning": "Jewelry consisting of a circlet of precious metal (often set with jewels) worn on the finger",
+    "taMeaning": "விரலில் அணியும் விலைமதிப்பற்ற உலோகத்தின் (பெரும்பாலும் நகைகளால் அமைக்கப்பட்ட) வட்டத்தைக் கொண்ட நகைகள்",
+    "category": "Ornaments"
+  },
+  {
+    "lexicalUnit": "ˈkeːj.ɾe",
+    "grammaticalInfo": "Noun",
+    "enWord": "River",
+    "irulaWord": "கெய்ஹ்ரெஹ்",
+    "taWord": "நதி",
+    "enMeaning": "A river is a long, flowing natural stream of water",
+    "taMeaning": "ஆறு",
+    "category": "Water Bodies"
+  },
+  {
+    "lexicalUnit": "uˈp.pu",
+    "grammaticalInfo": "Noun",
+    "enWord": "Salt",
+    "irulaWord": "உப்பு",
+    "taWord": "உப்பு",
+    "enMeaning": "White crystalline form of especially sodium chloride used to season and preserve food",
+    "taMeaning": "குறிப்பாக சோடியம் குளோரைட்டின் வெள்ளை நிற படிக வடிவம் உணவைப் பதப்படுத்தவும் பாதுகாக்கவும் பயன்படுகிறது",
+    "category": "Food"
+  },
+  {
+    "lexicalUnit": "m̃aɳə.l̪ʊ",
+    "grammaticalInfo": "Noun",
+    "enWord": "Sand",
+    "irulaWord": "மணலு",
+    "taWord": "மணல்",
+    "enMeaning": "Sand is a substance that's made of tiny pieces of rock.",
+    "taMeaning": "(கடற்கரைகள், பாலைவனங்கள், ஆறுகள், முதலியன) துகள்கள் நீரைத் தாங்காது மற்றும் தூள்களாக இருக்கும்.",
+    "category": "Earth"
+  },
+  {
+    "lexicalUnit": "ak.kə",
+    "grammaticalInfo": "Noun",
+    "enWord": "Sister",
+    "irulaWord": "அக்கா",
+    "taWord": "சகோதரி",
+    "enMeaning": "A female person who has the same parents as another person",
+    "taMeaning": "ஒரு பெண் தன் பெற்றோருடன் மற்றொரு ஆண்",
+    "category": "Kinship"
+  },
+  {
+    "lexicalUnit": "ˈboɖ.ɖe",
+    "grammaticalInfo": "Noun",
+    "enWord": "Skeleton",
+    "irulaWord": "போடதே",
+    "taWord": "எலும்புக்கூடு",
+    "enMeaning": "The hard structure (bones and cartilages) that provides a frame for the body of an animal",
+    "taMeaning": "ஒரு விலங்கின் உடலுக்கு ஒரு சட்டத்தை வழங்கும் கடினமான அமைப்பு (எலும்புகள் மற்றும் குருத்தெலும்பு).",
+    "category": "Body Parts"
+  },
+  {
+    "lexicalUnit": "θuˈm.mə",
+    "grammaticalInfo": "Verb",
+    "enWord": "Sneeze",
+    "irulaWord": "தும்ம",
+    "taWord": "தும்மல்",
+    "enMeaning": "Exhale spasmodically, as when an irritant entered one's nose",
+    "taMeaning": "ஒருவரின் மூக்கில் எரிச்சல் நுழைவது போல, மூச்சை இழுத்து விடவும்",
+    "category": "Physical Action"
+  },
+  {
+    "lexicalUnit": "ˈðeɪk.ku",
+    "grammaticalInfo": "Noun",
+    "enWord": "South",
+    "irulaWord": "தேக்கு",
+    "taWord": "தெற்கு",
+    "enMeaning": "The direction corresponding to the southward cardinal compass point",
+    "taMeaning": "தெற்கு நோக்கிய கார்டினல் திசைகாட்டி புள்ளியுடன் தொடர்புடைய திசை",
+    "category": "Direction"
+  },
+  {
+    "lexicalUnit": "kaˈrəɳ.ɖi",
+    "grammaticalInfo": "Noun",
+    "enWord": "Spoon",
+    "irulaWord": "கரண்டி",
+    "taWord": "கரண்டி",
+    "enMeaning": "A piece of cutlery with a shallow bowl-shaped container and a handle; used to stir or serve or take up food",
+    "taMeaning": "ஒரு ஆழமற்ற கிண்ண வடிவ கொள்கலன் மற்றும் ஒரு கைப்பிடி கொண்ட வெட்டுக்கருவிகள்; உணவைக் கிளற அல்லது பரிமாற அல்லது எடுக்கப் பயன்படுகிறது",
+    "category": "Cooking"
+  },
+  {
+    "lexicalUnit": "θaːj pi.ɖi ka.θu",
+    "grammaticalInfo": "Noun",
+    "enWord": "Sprain",
+    "irulaWord": "கலபுடிக்காடு",
+    "taWord": "சுளுக்கு",
+    "enMeaning": "A painful injury to a joint caused by a sudden wrenching of its ligaments",
+    "taMeaning": "அதன் தசைநார்கள் திடீரென விறைப்பதால் மூட்டுக்கு ஏற்படும் வலிமிகுந்த காயம்",
+    "category": "Ailment"
+  },
+  {
+    "lexicalUnit": "vej.na ˈmiː.nu",
+    "grammaticalInfo": "Noun",
+    "enWord": "Star",
+    "irulaWord": "விண்மீன்",
+    "taWord": "நட்சத்திரம்",
+    "enMeaning": "A star twinkles in the night sky.",
+    "taMeaning": "ஒளியையும் வெப்பத்தையும் தன்னிடத்திலேயே கொண்ட, கிரகங்களைவிடப் பல மடங்கு பெரியதாகவும் பூமியிலிருந்து வெகு தொலைவிலும் இருக்கும்",
+    "category": "Sky"
+  },
+  {
+    "lexicalUnit": "sɐˈk.kəre",
+    "grammaticalInfo": "Noun",
+    "enWord": "Sugar",
+    "irulaWord": "சர்க்கரை",
+    "taWord": "சர்க்கரை",
+    "enMeaning": "A white crystalline carbohydrate used as a sweetener and preservative",
+    "taMeaning": "ஒரு வெள்ளை படிக கார்போஹைட்ரேட் இனிப்பு மற்றும் பாதுகாப்பாளராகப் பயன்படுத்தப்படுகிறது",
+    "category": "Food"
+  },
+  {
+    "lexicalUnit": "po.θu",
+    "grammaticalInfo": "Noun",
+    "enWord": "Sun",
+    "irulaWord": "போடு",
+    "taWord": "சூரியன்",
+    "enMeaning": "The sun is the star that our planet revolves around; source of light and heat",
+    "taMeaning": "பூமிக்கு இன்றியமையாத ஒளியையும் வெப்பத்தையும் தரும் நட்சத்திரம்",
+    "category": "Sky"
+  },
+  {
+    "lexicalUnit": "ˈpo.θu vaˈɻuː.sa",
+    "grammaticalInfo": "Noun",
+    "enWord": "Thunder",
+    "irulaWord": "போடுவருச",
+    "taWord": "இடி",
+    "enMeaning": "Thunder is the loud noise that comes right after lightning.",
+    "taMeaning": "மழை பெய்யும்போதோ மழை வருவதற்கு அறிகுறியாகவோ சில சமயம் வானத்தில் கேட்கும்",
+    "category": "Sky"
+  },
+  {
+    "lexicalUnit": "ˈme͡j.le kaː.ru",
+    "grammaticalInfo": "Adverb",
+    "enWord": "Upwards",
+    "irulaWord": "மேலைக்கரு",
+    "taWord": "மேல்நோக்கி",
+    "enMeaning": "Going from a lower to a higher level or position",
+    "taMeaning": "தாழ்ந்த நிலையிலிருந்து உயர் நிலை அல்லது நிலைக்குச் செல்வது",
+    "category": "Direction"
+  },
+  {
+    "lexicalUnit": "bo.sɪ",
+    "grammaticalInfo": "Noun",
+    "enWord": "Utensils",
+    "irulaWord": "பாசி",
+    "taWord": "பாத்திரங்கள்",
+    "enMeaning": "An implement for practical use (especially in a household)",
+    "taMeaning": "நடைமுறை பயன்பாட்டிற்கான ஒரு கருவி (குறிப்பாக வீட்டில்)",
+    "category": "Cooking"
+  },
+  {
+    "lexicalUnit": "ˈn̪iːj.ɾu",
+    "grammaticalInfo": "Noun",
+    "enWord": "Water",
+    "irulaWord": "நீர்",
+    "taWord": "தண்ணீர்",
+    "enMeaning": "A liquid necessary for the life of most animals and plants.",
+    "taMeaning": "மழையால் கிடைப்பதும் ஆறு முதலியவற்றில் காணப்படுவதும் குடிப்பதற்குப் பயன்படுவதுமான திரவம்",
+    "category": "Water Bodies"
+  },
+  {
+    "lexicalUnit": "ˈo.li",
+    "grammaticalInfo": "Noun",
+    "enWord": "Wave",
+    "irulaWord": "ஒல்லி",
+    "taWord": "அலை",
+    "enMeaning": "One of a series of ridges that moves across the surface of a liquid (especially across a large body of water)",
+    "taMeaning": "ஒரு நீண்ட நீர்நிலை ஒரு வளைந்த வடிவத்தில் சுருண்டு கரையில் உடைகிறது.",
+    "category": "Water Bodies"
+  },
+  {
+    "lexicalUnit": "ˈθeɪɾ.ku",
+    "grammaticalInfo": "Noun",
+    "enWord": "West",
+    "irulaWord": "தெற்கு",
+    "taWord": "மேற்கு",
+    "enMeaning": "The direction towards the point of the horizon where the sun sets",
+    "taMeaning": "சூரியன் மறையும் அடிவானத்தின் புள்ளியை நோக்கிய திசை",
+    "category": "Direction"
+  },
+  {
+    "lexicalUnit": "ɡoːˈθu.me",
+    "grammaticalInfo": "Noun",
+    "enWord": "Wheat",
+    "irulaWord": "கோதுமை",
+    "taWord": "கோதுமை",
+    "enMeaning": "Annual or biennial grass having erect flower spikes and light brown grains",
+    "taMeaning": "பொதுவான கோதுமை தானியங்கள்; சில சமயங்களில் முழுவதுமாக சமைக்கப்படும் அல்லது தானியமாக வேகவைக்கப்படுகிறது; பொதுவாக மாவு அரைக்கப்படுகிறது",
+    "category": "Food"
+  },
+  {
+    "lexicalUnit": "voˈɭ.ɭej",
+    "grammaticalInfo": "Noun",
+    "enWord": "White",
+    "irulaWord": "வோளே",
+    "taWord": "வெள்ளை",
+    "enMeaning": "Being of the achromatic color of maximum lightness",
+    "taMeaning": "வெள்ளை நிறம் அல்லது நிறமி",
+    "category": "Colour"
+  },
+  {
+    "lexicalUnit": "ˈɖeːj.ka",
+    "grammaticalInfo": "Noun",
+    "enWord": "Yawn",
+    "irulaWord": "தேகா",
+    "taWord": "கொட்டாவி விடு",
+    "enMeaning": "An involuntary intake of breath through a wide open mouth",
+    "taMeaning": "அகன்ற திறந்த வாய் வழியாக தன்னிச்சையாக மூச்சு விடுதல்",
+    "category": "Physical Action"
+  },
+  {
+    "lexicalUnit": "maɲ.d͡ʒa",
+    "grammaticalInfo": "Noun",
+    "enWord": "Yellow",
+    "irulaWord": "மஞ்ச",
+    "taWord": "மஞ்சள்",
+    "enMeaning": "Resembling the color of an egg yolk",
+    "taMeaning": "மஞ்சள் நிறம் அல்லது நிறமி",
+    "category": "Colour"
+  }
+]

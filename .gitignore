@@ -1,0 +1,8 @@
+.env
+node_modules/
+.DS_Store
+assets/.DS_Store
+api/.DS_Store
+api/routes/.DS_Store
+dict/.DS_Store
+.vscode/
