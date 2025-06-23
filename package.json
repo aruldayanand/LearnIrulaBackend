@@ -14,7 +14,7 @@
     "azure-blobv2": "^1.0.13",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.20.1",
-    "dotenv": "^16.0.3",
+    "dotenv": "^16.5.0",
     "express": "^4.18.2",
     "mongoose": "^6.9.2",
     "morgan": "^1.10.0"
