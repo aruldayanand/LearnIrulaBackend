@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 env:
-  AZURE_WEBAPP_NAME: LearnIrula
+  AZURE_WEBAPP_NAME: learnirula-api
   NODE_VERSION: '18.x'  # or '18.x' if you prefer
   AZURE_WEBAPP_PACKAGE_PATH: '.'
 
